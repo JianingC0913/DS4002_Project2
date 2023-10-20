@@ -35,7 +35,7 @@
 | Figure Name | Description | Takeaways |
 |---------------|-------------|--------|
 |Clim_Envir_vs_Month.jpg | This plot visualized the trend of climate change related cover and environment related cover throughout the year.| Before climate change, the major environmental issue that National Geographic often refers to is protecting wildlife. |
-|Clim_Envir_vs_Year.jpg |This plot visualized the trend of climate change related cover and environment related cover in each month. | Covers at the end of each year are more likely to have environmental issue related themes or climate change themes. |
+|Clim_Envir_vs_Year.jpg | This plot visualized the trend of climate change related cover and environment related cover in each month. | Covers at the end of each year are more likely to have environmental issue related themes or climate change themes. |
 | cover_theme_wordcloud.png | This plot showed word cloud on themes that appeared in all National Geographic's Covers from 1980 to 2023.|The magazine features many human headshots and portraits on the cover page. Other common occurrences are animal photos, archaeological relics, and landscapes. |  
 
 
