@@ -40,7 +40,7 @@
 
 
 ## REFERENCES section
-[1] “See All ‘National Geographic’ Magazine Covers in Timelapse Video,” Hypebeast, Jan. 17, 2018. https://hypebeast.com/2018/1/national-geographic-all-magazine-covers (accessed Oct. 08, 2023).
+[1] “See All ‘National Geographic’ Magazine Covers in Timelapse Video,” Hypebeast, Jan. 17, 2018. https://hypebeast.com/2018/1/national-geographic-all-magazine-covers (accessed Oct. 08, 2023).  
 [2] NASA, “Climate Change Evidence: How Do We Know?,” Climate Change: Vital Signs of the Planet, Sep. 21, 2018. https://climate.nasa.gov/evidence/ (accessed Oct. 06, 2023)   
 
 Milestone 1: https://docs.google.com/document/d/1cHZPIl57EYzHqWuAV0WTfEzTLOtfPqZK3QV_jZWmCX8/edit?usp=sharing  
