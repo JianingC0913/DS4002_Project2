@@ -14,7 +14,7 @@
 |  Year  |  Specific year of the National Geographics Cover  |
 |  Month |  Specific month of the National Geographics Cover |
 |  Themes in the Picture | Themes we identified from this specific cover|
-| Climate Change Related? (Y/N) ｜ Does this cover display climate change related themes, Y means yes, N means no |
+| Climate Change Related? (Y/N) | Does this cover display climate change related themes, Y means yes, N means no |
 | Binary | Change the Y/N value from the previous column into 0 and 1 |
 | Relatad to Environment? (Y/N)| Does this cover display climate change related themes, Y means yes, N means no|
 | Binary | Change the Y/N value from the previous column into 0 and 1 |
