@@ -7,7 +7,7 @@
 · **4002proj2.twb**: This file is used to visualize the trend of climate change related cover and environment related cover vs year and vs month.
 
 ## DATA section
-· **covers**: This folder contains images of National Geographics cover from 1980 to 2023.
+· **covers**: This folder contains images of National Geographics cover from 1980 to 2023.  
 · **NG_Cover_Findings_monthly.csv**:  
 | Column Name | Description |
 |---------------|-------------|
